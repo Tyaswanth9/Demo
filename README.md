@@ -21,7 +21,7 @@ I am a results-driven **Data Analyst** with 3+ years of experience across **heal
 
 ## 🛠 Tools & Skills
 
-`SQL` • `Python` • `Excel` • `Power BI` • `Tableau` • `Data Cleaning` • `Data Visualization` • `Statistics`
+`SQL` • `Python` • `Excel` • `Power BI` • `Tableau` • `Data Cleaning` • `Data Visualization` • `Statistics` 
 
 ---
 
