@@ -30,9 +30,9 @@ I am a results-driven **Data Analyst** with 3+ years of experience across **heal
 <!-- Project Card 1 -->
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://your-project-link.com/sales-dashboard" target="_blank">
-    <img src=https://raw.githubusercontent.com/Tyaswanth9/my-protfolio-website/refs/heads/myself/screenshots/cover%20imges/Adventureworks_cover.pngalt="Sales Dashboard" width="100%" style="border-radius:10px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+    <img src="https://raw.githubusercontent.com/Tyaswanth9/my-protfolio-website/refs/heads/myself/screenshots/cover%20imges/Adventureworks_cover.png" alt="Sales Dashboard" width="100%" style="border-radius:10px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
   </a>
-  <h3><a href="https://your-project-link.com/sales-dashboard" target="_blank">📈 Sales Dashboard</a></h3>
+  <h3><a href="https://your-project-link.com/sales-dashboard" target="_blank">Adventure works data analysis end to end project </a></h3>
   <p><i>Interactive Power BI dashboard for tracking regional sales performance.</i></p>
 </div>
 
@@ -48,9 +48,9 @@ I am a results-driven **Data Analyst** with 3+ years of experience across **heal
 <!-- Project Card 3 -->
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://your-project-link.com/churn-prediction" target="_blank">
-    <img src="https://via.placeholder.com/600x300/eeeeee/333333?text=Churn+Prediction" alt="Churn Prediction" width="100%" style="border-radius:10px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+    <img src="https://raw.githubusercontent.com/Tyaswanth9/my-protfolio-website/refs/heads/myself/screenshots/cover%20imges/croudfunding_cover.png" alt="Churn Prediction" width="100%" style="border-radius:10px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
   </a>
-  <h3><a href="https://your-project-link.com/churn-prediction" target="_blank">🔮 Customer Churn Prediction</a></h3>
+  <h3><a href="https://your-project-link.com/churn-prediction" target="_blank">🔮 Crowdfunding Data Analysis end-to-end project</a></h3>
   <p><i>Python project applying ML models to predict telecom customer churn.</i></p>
 </div>
 
