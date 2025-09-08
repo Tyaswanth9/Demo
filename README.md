@@ -61,9 +61,16 @@ I am a results-driven **Data Analyst** with 3+ years of experience across **heal
 <a href="mailto:yourname@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+</br>
+
+<!--icon2-->
+
 <a href="https://github.com/your-username" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
+<!--icon2-->
+
 <a href="https://linkedin.com/in/your-username" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
