@@ -49,10 +49,10 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
 
 ##  Projects
 
-###  [Adventure Works Data Analysis End-to-End Project](https://your-project-link.com/sales-dashboard)
+###  [Adventure Works Data Analysis End-to-End Project](https://github.com/Tyaswanth9/Adventureworks-Data-Analyst-Project.git)
 <div align="center">
   <a href="https://github.com/Tyaswanth9/Adventureworks-Data-Analyst-Project.git" target="_blank">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/Adventureworks_cover.png" alt="Adventure Works Dashboard" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
+    <img src="https://raw.githubusercontent.com/Tyaswanth9/my-protfolio-website/refs/heads/myself/screenshots/cover%20imges/Adventureworks_cover.png" alt="Adventure Works Dashboard" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
   </a>
 </div>
 <p align="center">
@@ -78,7 +78,7 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
 ###  [Crowdfunding Data Analysis & Prediction (Python)](https://github.com/Tyaswanth9/Crowd-funding-project.git)
 <div align="center">
   <a href="https://github.com/Tyaswanth9/Crowd-funding-project.git" target="_blank">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/crowdfunding_cover.png" alt="Crowdfunding Data Analysis" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
+    <img src="https://raw.githubusercontent.com/Tyaswanth9/my-protfolio-website/refs/heads/myself/screenshots/cover%20imges/croudfunding_cover.png" alt="Crowdfunding Data Analysis" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
   </a>
 </div>
 <p align="center">
