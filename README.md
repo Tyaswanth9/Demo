@@ -1,90 +1,119 @@
-# 📊 Data Analyst Portfolio
+# 👋 Welcome to My Portfolio
 
-Welcome to my **Data Analyst Portfolio**, where I showcase projects that demonstrate my skills in **SQL**, **Python**, **Power BI**, **Tableau**, and **Excel**. I specialize in transforming raw data into compelling stories and actionable insights.
+Welcome to my **Data Analyst Portfolio**, where I turn raw data into meaningful insights. Below are real-world projects showcasing my skills in **data cleaning**, **dashboard creation**, **automation**, and **storytelling** using top industry tools.
 
 ---
 
 ## 🧠 About Me
 
-I am a results-driven **Data Analyst** with 3+ years of experience across **healthcare**, **finance**, and **retail** industries. I create impactful dashboards, automate workflows, and deliver insights that help organizations make better decisions.
+I'm a results-driven **Data Analyst** with 3+ years of experience in the **healthcare**, **finance**, and **retail** sectors. I transform complex data into clear insights to support strategic decisions.
 
 ---
 
 ## 📝 Summary
 
-- 🔍 **Role:** Data Analyst  
-- 📆 **Experience:** 3+ years in healthcare, finance & retail  
-- 💡 **Impact:** Reduced reporting time by 40%, automated analysis workflows  
-- 📊 **Focus:** Data storytelling, decision support, and business insights
+- 🎯 **Role:** Data Analyst (intern) 
+- 📅 **Experience:** 9 months  
+- 🧩 **Industries:** Healthcare, Finance, Retail , E-commerce  
+- 📈 **Focus Areas:**
+    - Data Visualization
+    - Business Intelligence
+    -  Real world bussiness problem-solving
+    -  dashboard creation 
+    -  report creation
 
 ---
 
 ## 🛠 Tools & Skills
 
-`SQL` • `Python` • `Excel` • `Power BI` • `Tableau` • `Data Cleaning` • `Data Visualization` • `Statistics` 
+- SQL  
+- Python  
+- Pandas & NumPy  
+- Microsoft Excel  
+- Power BI  
+- Tableau  
+- Data Cleaning  
+- Data Visualization  
+- ETL Processes  
+- Descriptive Statistics  
+- Machine Learning (Basic Modeling)  
+- Data Storytelling
 
 ---
 
 ## 🚀 Projects
 
-<!-- Project Card 1 -->
-<div align="center" style="margin-bottom: 20px;">
+### 📊 [Adventure Works Sales Dashboard (Power BI)](https://your-project-link.com/sales-dashboard)
+<div align="center">
   <a href="https://your-project-link.com/sales-dashboard" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tyaswanth9/my-protfolio-website/refs/heads/myself/screenshots/cover%20imges/Adventureworks_cover.png" alt="Sales Dashboard" width="100%" style="border-radius:10px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/Adventureworks_cover.png" alt="Adventure Works Dashboard" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
   </a>
-  <h3><a href="https://your-project-link.com/sales-dashboard" target="_blank">Adventure works data analysis end to end project </a></h3>
-  <p><i>Interactive Power BI dashboard for tracking regional sales performance.</i></p>
 </div>
+<p align="center">
+  <i>Interactive dashboard to analyze regional and product-level sales trends.</i><br>
+  <b>Skills:</b> Power BI, DAX, Data Modeling, Excel
+</p>
 
-<!-- Project Card 2 -->
-<div align="center" style="margin-bottom: 20px;">
+---
+
+### 🧼 [Patient Data Cleaning (SQL)](https://your-project-link.com/patient-data-cleaning)
+<div align="center">
   <a href="https://your-project-link.com/patient-data-cleaning" target="_blank">
-    <img src="https://via.placeholder.com/600x300/eeeeee/333333?text=Patient+Data+Cleaning" alt="Patient Data Cleaning" width="100%" style="border-radius:10px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/patient_data_cleaning.png" alt="Patient Data Cleaning" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
   </a>
-  <h3><a href="https://your-project-link.com/patient-data-cleaning" target="_blank">🧼 Patient Data Cleaning</a></h3>
-  <p><i>SQL pipeline for cleaning, normalizing, and preparing healthcare datasets.</i></p>
 </div>
+<p align="center">
+  <i>SQL pipeline to clean, normalize, and structure healthcare datasets.</i><br>
+  <b>Skills:</b> SQL, Data Cleaning, SSMS, Healthcare Data
+</p>
 
-<!-- Project Card 3 -->
-<div align="center" style="margin-bottom: 20px;">
+---
+
+### 🔮 [Crowdfunding Data Analysis & Prediction (Python)](https://your-project-link.com/churn-prediction)
+<div align="center">
   <a href="https://your-project-link.com/churn-prediction" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tyaswanth9/my-protfolio-website/refs/heads/myself/screenshots/cover%20imges/croudfunding_cover.png" alt="Churn Prediction" width="100%" style="border-radius:10px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/crowdfunding_cover.png" alt="Crowdfunding Data Analysis" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
   </a>
-  <h3><a href="https://your-project-link.com/churn-prediction" target="_blank">🔮 Crowdfunding Data Analysis end-to-end project</a></h3>
-  <p><i>Python project applying ML models to predict telecom customer churn.</i></p>
 </div>
+<p align="center">
+  <i>Explored success patterns in crowdfunding campaigns and applied predictive models.</i><br>
+  <b>Skills:</b> Python, Pandas, Matplotlib, Scikit-learn, Machine Learning
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-<a href="mailto:yourname@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-</br>
+<p align="left">
+  <a href="mailto:yourname@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="28px">
+    &nbsp;&nbsp;yourname@gmail.com
+  </a>
+</p>
 
-<!--icon2-->
+<p align="left">
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="28px">
+    &nbsp;&nbsp;github.com/your-username
+  </a>
+</p>
 
-<a href="https://github.com/your-username" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<!--icon2-->
-
-<a href="https://linkedin.com/in/your-username" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<p align="left">
+  <a href="https://linkedin.com/in/your-username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28px">
+    &nbsp;&nbsp;linkedin.com/in/your-username
+  </a>
+</p>
 
 ---
 
 ## 🙏 Thank You
 
-Thank you for visiting my portfolio!  
-I appreciate your time and interest in my work.  
-Feel free to reach out if you'd like to connect or collaborate.
+Thanks for visiting my portfolio!  
+I'm always open to connecting, collaborating, or exploring new opportunities in the data space.
 
 ---
 
 <p align="center">
-  © 2025 <strong>Your Name</strong> — Data Analyst Portfolio  
+  © 2025 <strong>Your Name</strong> — Data Analyst Portfolio
 </p>
