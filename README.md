@@ -1,21 +1,28 @@
 # 👋 Welcome to My Portfolio
 
-Welcome to my **Data Analyst Portfolio**, where I turn raw data into meaningful insights. Below are real-world projects showcasing my skills in **data cleaning**, **dashboard creation**, **automation**, and **storytelling** using top industry tools.
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-I'm a results-driven **Data Analyst** with 3+ years of experience in the **healthcare**, **finance**, and **retail** sectors. I transform complex data into clear insights to support strategic decisions.
+Hello, and thank you for visiting view my profile.
+
+I am an aspiring Data Analyst with practical experience in tools like Excel, SQL, Power BI, and Tableau. I enjoy working with data—cleaning, analyzing, and creating dashboards that help turn information into clear insights.
+
+I have used pivot tables, DAX, and other functions to support data-driven decisions and solve real problems. I'm always eager to learn new skills and improve my understanding of data and analytics.
+
+I’m currently looking for an opportunity to grow as part of a supportive and data-focused team. I’m open to entry-level roles, internships, or any chance to contribute and learn in a real-world setting.
+
+I would truly appreciate any guidance, feedback, or opportunities you might be willing to share. Please feel free to connect—I'd be happy to hear from you.
 
 ---
 
-## 📝 Summary
+##  Summary
 
-- 🎯 **Role:** Data Analyst (intern) 
-- 📅 **Experience:** 9 months  
-- 🧩 **Industries:** Healthcare, Finance, Retail , E-commerce  
-- 📈 **Focus Areas:**
+-  **Role:** Data Analyst (intern) 
+-  **Experience:** 9 months  
+-  **Industries:** Healthcare, Finance, Retail , E-commerce  
+-  **Focus Areas:**
     - Data Visualization
     - Business Intelligence
     -  Real world bussiness problem-solving
@@ -27,51 +34,50 @@ I'm a results-driven **Data Analyst** with 3+ years of experience in the **healt
 ## 🛠 Tools & Skills
 
 - SQL  
-- Python  
-- Pandas & NumPy  
 - Microsoft Excel  
 - Power BI  
 - Tableau  
 - Data Cleaning  
 - Data Visualization  
 - ETL Processes  
-- Descriptive Statistics  
-- Machine Learning (Basic Modeling)  
+- Data Modelling   
 - Data Storytelling
+- Python  
+- Pandas & NumPy 
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 📊 [Adventure Works Sales Dashboard (Power BI)](https://your-project-link.com/sales-dashboard)
+###  [Adventure Works Data Analysis End-to-End Project](https://your-project-link.com/sales-dashboard)
 <div align="center">
-  <a href="https://your-project-link.com/sales-dashboard" target="_blank">
+  <a href="https://github.com/Tyaswanth9/Adventureworks-Data-Analyst-Project.git" target="_blank">
     <img src="https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/Adventureworks_cover.png" alt="Adventure Works Dashboard" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
   </a>
 </div>
 <p align="center">
   <i>Interactive dashboard to analyze regional and product-level sales trends.</i><br>
-  <b>Skills:</b> Power BI, DAX, Data Modeling, Excel
+  <b>Skills:</b> Excel , Power BI , SQL , Tableau
 </p>
 
 ---
 
-### 🧼 [Patient Data Cleaning (SQL)](https://your-project-link.com/patient-data-cleaning)
+###  [HR Analysis End-to-End project ](https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project.git)
 <div align="center">
-  <a href="https://your-project-link.com/patient-data-cleaning" target="_blank">
+  <a href="https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project.git" target="_blank">
     <img src="https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/patient_data_cleaning.png" alt="Patient Data Cleaning" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
   </a>
 </div>
 <p align="center">
   <i>SQL pipeline to clean, normalize, and structure healthcare datasets.</i><br>
-  <b>Skills:</b> SQL, Data Cleaning, SSMS, Healthcare Data
+  <b>Skills:</b> Excel , Power BI , 
 </p>
 
 ---
 
-### 🔮 [Crowdfunding Data Analysis & Prediction (Python)](https://your-project-link.com/churn-prediction)
+###  [Crowdfunding Data Analysis & Prediction (Python)](https://github.com/Tyaswanth9/Crowd-funding-project.git)
 <div align="center">
-  <a href="https://your-project-link.com/churn-prediction" target="_blank">
+  <a href="https://github.com/Tyaswanth9/Crowd-funding-project.git" target="_blank">
     <img src="https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/crowdfunding_cover.png" alt="Crowdfunding Data Analysis" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
   </a>
 </div>
@@ -82,7 +88,7 @@ I'm a results-driven **Data Analyst** with 3+ years of experience in the **healt
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 <p align="left">
   <a href="mailto:yourname@gmail.com" target="_blank">
@@ -115,5 +121,5 @@ I'm always open to connecting, collaborating, or exploring new opportunities in 
 ---
 
 <p align="center">
-  © 2025 <strong>Your Name</strong> — Data Analyst Portfolio
+  © 2025 <strong>y</strong> — Data Analyst Portfolio
 </p>
