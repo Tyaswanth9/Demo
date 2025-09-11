@@ -56,7 +56,7 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
   </a>
 </div>
 <p align="center">
-  <i>Interactive dashboard to analyze regional and product-level sales trends.</i><br>
+  <i>Adventure Works Data Analysis End-to-End Project</i><br>
   <b>Skills:</b> Excel , Power BI , SQL , Tableau
 </p>
 
@@ -69,21 +69,21 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
   </a>
 </div>
 <p align="center">
-  <i>SQL pipeline to clean, normalize, and structure healthcare datasets.</i><br>
+  <i>HR Analysis End-to-End project</i><br>
   <b>Skills:</b> Excel , Power BI , 
 </p>
 
 ---
 
-#  [Crowdfunding Data Analysis & Prediction (Python)](https://github.com/Tyaswanth9/Crowd-funding-project.git)
+#  [Crowdfunding Data Analysis End-to-End Project](https://github.com/Tyaswanth9/Crowd-funding-project.git)
 <div align="center">
   <a href="https://github.com/Tyaswanth9/Crowd-funding-project.git" target="_blank">
     <img src="https://raw.githubusercontent.com/Tyaswanth9/my-protfolio-website/refs/heads/myself/screenshots/cover%20imges/croudfunding_cover.png" alt="Crowdfunding Data Analysis cover image" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
   </a>
 </div>
 <p align="center">
-  <i>Explored success patterns in crowdfunding campaigns and applied predictive models.</i><br>
-  <b>Skills:</b> Python, Pandas, Matplotlib, Scikit-learn, Machine Learning
+  <i>Crowdfunding Data Analysis End-to-End Project</i><br>
+  <b>Skills:</b> Excel , Power BI , SQL and Tableau
 </p>
 
 ---
