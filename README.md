@@ -91,10 +91,10 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
 ##  Contact Me
 
 <p align="left">
-  
+  <a href="mailto:yourname@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="28px">
     &nbsp;&nbsp;Yaswanth9166@gmail.com
- 
+  </a>
 </p>
 
 <p align="left">
@@ -107,7 +107,7 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
 <p align="left">
   <a href="https://linkedin.com/in/your-username" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28px">
-    &nbsp;&nbsp;linkedin.com/in/your-username
+    &nbsp;&nbsp;www.linkedin.com/in/yaswanth-naga-sai-tadiboina-0a4749360
   </a>
 </p>
 
