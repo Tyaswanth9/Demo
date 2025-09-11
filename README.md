@@ -65,7 +65,7 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
 #  [HR Analysis End-to-End project ](https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project.git)
 <div align="center">
   <a href="https://github.com/Tyaswanth9/HR-Analytics-data-analysis-project.git" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tyaswanth9/my-protfolio-website/refs/heads/myself/screenshots/cover%20imges/hrlogo.jpg" alt="Patient Data Cleaning" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
+    <img src="https://raw.githubusercontent.com/Tyaswanth9/my-protfolio-website/refs/heads/myself/screenshots/cover%20imges/HRAnalisis_logo.png" alt="HR analisis cover image" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
   </a>
 </div>
 <p align="center">
@@ -78,7 +78,7 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
 #  [Crowdfunding Data Analysis & Prediction (Python)](https://github.com/Tyaswanth9/Crowd-funding-project.git)
 <div align="center">
   <a href="https://github.com/Tyaswanth9/Crowd-funding-project.git" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tyaswanth9/my-protfolio-website/refs/heads/myself/screenshots/cover%20imges/croudfunding_cover.png" alt="Crowdfunding Data Analysis" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
+    <img src="https://raw.githubusercontent.com/Tyaswanth9/my-protfolio-website/refs/heads/myself/screenshots/cover%20imges/croudfunding_cover.png" alt="Crowdfunding Data Analysis cover image" width="800px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
   </a>
 </div>
 <p align="center">
@@ -91,10 +91,10 @@ I would truly appreciate any guidance, feedback, or opportunities you might be w
 ##  Contact Me
 
 <p align="left">
-  <a href="mailto:yourname@gmail.com" target="_blank">
+  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="28px">
-    &nbsp;&nbsp;yourname@gmail.com
-  </a>
+    &nbsp;&nbsp;Yaswanth9166@gmail.com
+ 
 </p>
 
 <p align="left">
